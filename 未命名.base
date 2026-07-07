@@ -1,3 +1,5 @@
+formulas:
+  未命名: ""
 views:
   - type: table
     name: 表格
@@ -8,3 +10,14 @@ views:
     imageAspectRatio: 1.7
   - type: table
     name: 视图 2
+    order:
+      - file.name
+      - file.backlinks
+      - file.basename
+      - file.ctime
+      - file.ext
+      - formula.未命名
+      - file.embeds
+    sort:
+      - property: file.name
+        direction: DESC
