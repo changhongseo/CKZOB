@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: 表格
+  - type: cards
+    name: 视图
+    cardSize: 260
+    imageFit: contain
+    imageAspectRatio: 1.7
