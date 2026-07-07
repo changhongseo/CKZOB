@@ -14,7 +14,7 @@
               "type": "bases",
               "state": {
                 "file": "未命名.base",
-                "viewName": "视图 2"
+                "viewName": "表格"
               },
               "icon": "lucide-table",
               "title": "未命名"
@@ -186,8 +186,8 @@
   "active": "6c292db3b0eb14cc",
   "lastOpenFiles": [
     "未命名.md",
-    "测试2.md",
     "未命名.base",
+    "测试2.md",
     "README.md",
     "欢迎.md",
     "测试.md"
