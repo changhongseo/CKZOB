@@ -6,3 +6,5 @@ views:
     cardSize: 260
     imageFit: contain
     imageAspectRatio: 1.7
+  - type: table
+    name: 视图 2
